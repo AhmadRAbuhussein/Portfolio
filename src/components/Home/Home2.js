@@ -29,7 +29,7 @@ function Home2() {
               —delivering robust backends and smooth, user-friendly interfaces.
               <br />
               <br />
-              With experience across industries like logistics, fintech, and insurance, I've led end-to-end development, integrated complex systems (APIs, webhooks, AS2), and driven team growth through mentorship and clean architecture.
+              With experience across industries like logistics, fintech, and insurance, I've led end-to-end development, integrated complex systems (APIs, webhooks, message queues, AS2), and driven team growth through mentorship and clean architecture.
               <br />
               <br />
               Whether it's a cross-platform mobile app or an enterprise-grade backend, I’m all about creating solutions that are <b className="purple">reliable, maintainable, and built to last</b>.
